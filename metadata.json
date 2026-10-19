@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hawsapur Mahila Dugdh Ltd Dairy",
+  "description": "Bilingual Android mobile app for milk collection with Fat \u0026 SNF rate basis, Excel rate chart import, and WhatsApp/SMS summaries for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
